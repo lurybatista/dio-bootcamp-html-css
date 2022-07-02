@@ -1,7 +1,5 @@
 # Bootcamp TQI/DIO
-Desafio HTML5/CSS3
-
-Repositório de projeto do Bootcamp TQI da DIO
+Desafio de projeto HTML5/CSS3
 
 ## Portfolio Web e Mobile
 
